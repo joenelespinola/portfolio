@@ -1,0 +1,11 @@
+.image.main .laptop_icon{
+	object-fit:contain;
+}
+.feature-icons .skill-icons .skill-holder{
+	display: flex;
+	align-items: center;
+}
+.feature-icons .skill-icons img{
+	width: 50px;
+	height: auto;
+}
