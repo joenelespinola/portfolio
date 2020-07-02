@@ -15,3 +15,13 @@
 .gtr-uniform .error{
 	color: #e11212;
 }
+.iziModal .iziModal-header.iziModal-noSubtitle {
+    background: #1e3961!important;
+}
+.achievement-holder{
+	width: 100%;
+    height: auto;
+}
+.achievements.image{
+	cursor: pointer;
+}
