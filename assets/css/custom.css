@@ -25,3 +25,14 @@
 .achievements.image{
 	cursor: pointer;
 }
+.visit-website{
+	background: #1c596c;
+    	color: white;
+    	padding: 10px;
+}
+.visit-website:hover{
+	color: #35a7c9 !important;
+}
+.inner.achieve{
+	text-align: center !important;
+}
